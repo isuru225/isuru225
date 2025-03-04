@@ -12,11 +12,11 @@
 ---
 
 - 🔭 I’m currently working on **Automating Automata project.**  
-- 🌱 I’m currently learning **Deep Learning concepts & advanced .NET Core topics.**  
-- 👯 I’m looking to collaborate on **Task Nest (Project Management Platform).**  
+- 🌱 I’m currently learning **deep dearning concepts & advanced .NET Core topics.**  
+- 👯 I’m looking to collaborate on **Task Nest - Project Management Platform**  
 - 💬 Ask me about **React.js, TypeScript, Redux, and .NET Core.**  
 - 📫 How to reach me **isurugamageinfo@gmail.com**  
-- ⚡ Fun fact **I love Python because I’m a zookeeper! 🐍**  
+- ⚡ Fun fact **I love Python cuz I’m a zookeeper! 🐍**  
 
 ---
 
