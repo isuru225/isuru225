@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isuru Madushan</h1>
 <h3 align="center">🚀 A Passionate Software Engineer from Sri Lanka</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isuru225&label=Profile%20views&color=0e75b6&style=flat" alt="isuru225" />
 </p>
@@ -19,7 +18,7 @@
 - ⚡ Fun fact **I love Python cuz I’m a zookeeper! 🐍**  
 
 ---
-
+<br/>
 <h3 align="center">📫 Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/isuru-madushan" target="blank">
